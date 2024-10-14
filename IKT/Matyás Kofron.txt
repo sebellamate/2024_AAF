@@ -1,0 +1,75 @@
+mondatszeru abrazolas algoritmusokkal
+Pszeudokód
+
+szekvencia - utasitasok sorozata
+valtozo_nev = ertek
+BE: valtozo_nev
+Ki: Valtozo_nev
+
+
+
+
+
+szelekció - elagazas
+ha (feltétel(ek)) akkor
+	szekvencia;
+
+---------------------------------------------
+
+ha (feltétel(ek)) akkor
+	szekvencia;
+kulonben
+	szekvencia2;
+e.v
+
+---------------------------------------------
+
+
+ha (feltétel(ek)) akkor
+	szekvencia;
+kulonben
+	szekvencia2;
+
+kulonben
+	szekvenciaN;
+
+---------------------------------------------
+
+iteráció - ciklus(ismetlodes)
+szamlalos ciklus
+ciklus i = kezdoertek - vegertekig leptetes
+	ciklus mag;
+c.v
+
+---------------------------------------------
+
+eloltesztelos ciklus
+ciklus amig(feltetel(ek))
+	ciklus mag;
+c.v
+
+---------------------------------------------
+
+hatul tesztelos
+csinald	
+	ciklus mag;
+amig(feltetel(ek));
+
+program program_nev(valtozok)
+	folyamat
+pr.v
+
+
+
+
+program feladat1() 10-5   c- a- b-
+	Be: a,b: egesz
+	ha(a>b)
+		c = a;
+		a = b;
+		b = c;
+	e.v.
+	ciklus i = a-tol b-ig egyesevel
+		ki:i;
+	c.v
+pr.v

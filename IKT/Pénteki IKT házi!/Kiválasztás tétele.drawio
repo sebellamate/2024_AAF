@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net" modified="2023-10-05T16:29:36.183Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="KhVRd_xB4P69rOBMq4g6" version="21.7.5" type="device">
+  <diagram name="1 oldal" id="qm6w9oJ3cx1MxDzC7Z3C">
+    <mxGraphModel dx="1837" dy="1169" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Hrtx0SePWvL3DIdgYXv7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hrtx0SePWvL3DIdgYXv7-1" target="Hrtx0SePWvL3DIdgYXv7-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hrtx0SePWvL3DIdgYXv7-1" value="START" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="160" y="100" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Hrtx0SePWvL3DIdgYXv7-2" value="END" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="760" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Hrtx0SePWvL3DIdgYXv7-3" value="Be: tomb, tulajdonsag" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hrtx0SePWvL3DIdgYXv7-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hrtx0SePWvL3DIdgYXv7-5" target="Hrtx0SePWvL3DIdgYXv7-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hrtx0SePWvL3DIdgYXv7-5" value="i = 0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hrtx0SePWvL3DIdgYXv7-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hrtx0SePWvL3DIdgYXv7-6" target="Hrtx0SePWvL3DIdgYXv7-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hrtx0SePWvL3DIdgYXv7-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hrtx0SePWvL3DIdgYXv7-6" target="Hrtx0SePWvL3DIdgYXv7-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hrtx0SePWvL3DIdgYXv7-6" value="ciklus amíg tomb[i] != tulajdonsag" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="440" width="190" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Hrtx0SePWvL3DIdgYXv7-12" value="i = i+1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hrtx0SePWvL3DIdgYXv7-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hrtx0SePWvL3DIdgYXv7-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hrtx0SePWvL3DIdgYXv7-14" value="Ki: i" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

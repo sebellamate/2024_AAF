@@ -1,0 +1,63 @@
+<mxfile host="app.diagrams.net" modified="2023-10-05T16:24:43.652Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="D2bc6w1aZEgbBc-V1O1V" version="21.7.5" type="device">
+  <diagram name="1 oldal" id="Y9UlsstsfC-VyVoe_eYp">
+    <mxGraphModel dx="995" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1jU3xUYAatMh67v_GtrF-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1jU3xUYAatMh67v_GtrF-1" target="1jU3xUYAatMh67v_GtrF-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1jU3xUYAatMh67v_GtrF-1" value="START" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="170" y="150" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="1jU3xUYAatMh67v_GtrF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1jU3xUYAatMh67v_GtrF-3" target="1jU3xUYAatMh67v_GtrF-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1jU3xUYAatMh67v_GtrF-3" value="Be: tomb, tulajdonsag&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1jU3xUYAatMh67v_GtrF-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1jU3xUYAatMh67v_GtrF-5" target="1jU3xUYAatMh67v_GtrF-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1jU3xUYAatMh67v_GtrF-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1jU3xUYAatMh67v_GtrF-5" target="1jU3xUYAatMh67v_GtrF-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1jU3xUYAatMh67v_GtrF-5" value="ciklus amíg i&amp;lt;tombhossz,&lt;br&gt;és tomb[i] != tulajdonsag" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="480" width="160" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="1jU3xUYAatMh67v_GtrF-6" value="I" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="480" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1jU3xUYAatMh67v_GtrF-7" value="H" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="650" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1jU3xUYAatMh67v_GtrF-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1jU3xUYAatMh67v_GtrF-9" target="1jU3xUYAatMh67v_GtrF-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1jU3xUYAatMh67v_GtrF-9" value="Nincs benne tul.&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1jU3xUYAatMh67v_GtrF-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1jU3xUYAatMh67v_GtrF-10" target="1jU3xUYAatMh67v_GtrF-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1jU3xUYAatMh67v_GtrF-10" value="Van benne tul." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="545" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1jU3xUYAatMh67v_GtrF-13" value="END" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="820" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1jU3xUYAatMh67v_GtrF-14" value="END" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="535" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
