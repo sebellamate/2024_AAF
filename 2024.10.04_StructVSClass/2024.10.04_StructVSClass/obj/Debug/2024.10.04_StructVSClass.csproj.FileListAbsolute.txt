@@ -1,0 +1,7 @@
+H:\11.OSZTÁLY\C#\2024.10.04_StructVSClass\2024.10.04_StructVSClass\bin\Debug\2024.10.04_StructVSClass.exe.config
+H:\11.OSZTÁLY\C#\2024.10.04_StructVSClass\2024.10.04_StructVSClass\bin\Debug\2024.10.04_StructVSClass.exe
+H:\11.OSZTÁLY\C#\2024.10.04_StructVSClass\2024.10.04_StructVSClass\bin\Debug\2024.10.04_StructVSClass.pdb
+H:\11.OSZTÁLY\C#\2024.10.04_StructVSClass\2024.10.04_StructVSClass\obj\Debug\2024.10.04_StructVSClass.csproj.AssemblyReference.cache
+H:\11.OSZTÁLY\C#\2024.10.04_StructVSClass\2024.10.04_StructVSClass\obj\Debug\2024.10.04_StructVSClass.csproj.CoreCompileInputs.cache
+H:\11.OSZTÁLY\C#\2024.10.04_StructVSClass\2024.10.04_StructVSClass\obj\Debug\2024.10.04_StructVSClass.exe
+H:\11.OSZTÁLY\C#\2024.10.04_StructVSClass\2024.10.04_StructVSClass\obj\Debug\2024.10.04_StructVSClass.pdb

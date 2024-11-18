@@ -1,0 +1,7 @@
+H:\12.OSZTÁLY\C#\2024_11_14_Static\2024_11_14_Static\bin\Debug\2024_11_14_Static.exe.config
+H:\12.OSZTÁLY\C#\2024_11_14_Static\2024_11_14_Static\bin\Debug\2024_11_14_Static.exe
+H:\12.OSZTÁLY\C#\2024_11_14_Static\2024_11_14_Static\bin\Debug\2024_11_14_Static.pdb
+H:\12.OSZTÁLY\C#\2024_11_14_Static\2024_11_14_Static\obj\Debug\2024_11_14_Static.csproj.AssemblyReference.cache
+H:\12.OSZTÁLY\C#\2024_11_14_Static\2024_11_14_Static\obj\Debug\2024_11_14_Static.csproj.CoreCompileInputs.cache
+H:\12.OSZTÁLY\C#\2024_11_14_Static\2024_11_14_Static\obj\Debug\2024_11_14_Static.exe
+H:\12.OSZTÁLY\C#\2024_11_14_Static\2024_11_14_Static\obj\Debug\2024_11_14_Static.pdb

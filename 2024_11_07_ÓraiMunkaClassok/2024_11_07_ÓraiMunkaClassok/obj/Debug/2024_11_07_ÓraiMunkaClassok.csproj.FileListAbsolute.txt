@@ -1,0 +1,7 @@
+H:\12.OSZTÁLY\C#\2024_11_07_ÓraiMunkaClassok\2024_11_07_ÓraiMunkaClassok\bin\Debug\2024_11_07_ÓraiMunkaClassok.exe.config
+H:\12.OSZTÁLY\C#\2024_11_07_ÓraiMunkaClassok\2024_11_07_ÓraiMunkaClassok\bin\Debug\2024_11_07_ÓraiMunkaClassok.exe
+H:\12.OSZTÁLY\C#\2024_11_07_ÓraiMunkaClassok\2024_11_07_ÓraiMunkaClassok\bin\Debug\2024_11_07_ÓraiMunkaClassok.pdb
+H:\12.OSZTÁLY\C#\2024_11_07_ÓraiMunkaClassok\2024_11_07_ÓraiMunkaClassok\obj\Debug\2024_11_07_ÓraiMunkaClassok.csproj.AssemblyReference.cache
+H:\12.OSZTÁLY\C#\2024_11_07_ÓraiMunkaClassok\2024_11_07_ÓraiMunkaClassok\obj\Debug\2024_11_07_ÓraiMunkaClassok.csproj.CoreCompileInputs.cache
+H:\12.OSZTÁLY\C#\2024_11_07_ÓraiMunkaClassok\2024_11_07_ÓraiMunkaClassok\obj\Debug\2024_11_07_ÓraiMunkaClassok.exe
+H:\12.OSZTÁLY\C#\2024_11_07_ÓraiMunkaClassok\2024_11_07_ÓraiMunkaClassok\obj\Debug\2024_11_07_ÓraiMunkaClassok.pdb
